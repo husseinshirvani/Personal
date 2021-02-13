@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husseinshirvani
+- 👋 Hi, I’m Hussein Shirvani (@husseinshirvani)
 - 👀 I’m interested in Frond-end Programming, UX/UI Design and Usability.
 - 🌱 I’m currently learning UX/UI Design.
 - 💞️ I’m looking to collaborate on design and usability testing projects.
